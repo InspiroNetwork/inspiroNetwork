@@ -232,7 +232,7 @@ a:hover {
 .page-transition-overlay .flower-of-life,
 .page-transition-overlay .metatron-cube {
   position: absolute;
-  left: 50%;
+  left: 10%;
   top: 50%;
   transform: translate(-50%, -50%);
   transition: all 0.5s ease;
