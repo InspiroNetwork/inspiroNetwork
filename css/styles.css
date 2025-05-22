@@ -762,7 +762,8 @@ a:hover {
 /* Fix for Firefox and Safari positioning */
 @supports (-moz-appearance: none) or (-webkit-appearance: none) {
   .vertex-course.vertex-1 {
-    top: 2%;
+    bottom: 20%;
+    left: 13%;
   }
   .vertex-course.vertex-2 {
     top: 20%;
@@ -773,7 +774,8 @@ a:hover {
     right: 13%;
   }
   .vertex-course.vertex-4 {
-    bottom: 2%;
+    bottom: 20%;
+    left: 13%;
   }
   .vertex-course.vertex-5 {
     bottom: 20%;
