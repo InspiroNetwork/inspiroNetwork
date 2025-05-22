@@ -1145,7 +1145,7 @@ a:hover {
 /* Position vertices around the cube */
 .cube-vertices .vertex:nth-child(1) {
   top: 5%;
-  left: 50%;
+  left: auto;
 }
 
 .cube-vertices .vertex:nth-child(2) {
@@ -1160,7 +1160,7 @@ a:hover {
 
 .cube-vertices .vertex:nth-child(4) {
   bottom: 5%;
-  left: 50%;
+  left: auto;
 }
 
 .cube-vertices .vertex:nth-child(5) {
