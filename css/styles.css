@@ -732,7 +732,6 @@ a:hover {
 .vertex-course.vertex-1 {
   top: 0%;
   left: 50%;
-  transform: translateX(-50%);
 }
 
 .vertex-course.vertex-2 {
@@ -748,7 +747,6 @@ a:hover {
 .vertex-course.vertex-4 {
   bottom: 0%;
   left: 50%;
-  transform: translateX(-50%);
 }
 
 .vertex-course.vertex-5 {
