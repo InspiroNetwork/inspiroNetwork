@@ -2579,7 +2579,7 @@ a:hover {
   }
 
   .vertex-content {
-    display: flex;
+    display: Initial;
     justify-content: space-between;
     align-items: center;
   }
