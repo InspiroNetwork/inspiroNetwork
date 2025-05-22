@@ -731,7 +731,7 @@ a:hover {
 /* Position vertices in a hexagonal pattern */
 .vertex-course.vertex-1 {
   top: 0%;
-  left: 50%;
+  left: auto;
 }
 
 .vertex-course.vertex-2 {
@@ -746,7 +746,7 @@ a:hover {
 
 .vertex-course.vertex-4 {
   bottom: 0%;
-  left: 50%;
+  left: auto;
 }
 
 .vertex-course.vertex-5 {
