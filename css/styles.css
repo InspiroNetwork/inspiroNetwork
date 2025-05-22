@@ -1144,32 +1144,32 @@ a:hover {
 
 /* Position vertices around the cube */
 .cube-vertices .vertex:nth-child(1) {
-  top: 5%;
+  top: 3%;
   left: auto;
 }
 
 .cube-vertices .vertex:nth-child(2) {
-  top: 25%;
+  top: 22%;
   right: 10%;
 }
 
 .cube-vertices .vertex:nth-child(3) {
-  bottom: 25%;
+  bottom: 22%;
   right: 10%;
 }
 
 .cube-vertices .vertex:nth-child(4) {
-  bottom: 5%;
+  bottom: 3%;
   left: auto;
 }
 
 .cube-vertices .vertex:nth-child(5) {
-  bottom: 25%;
+  bottom: 22%;
   left: 10%;
 }
 
 .cube-vertices .vertex:nth-child(6) {
-  top: 25%;
+  top: 22%;
   left: 10%;
 }
 
