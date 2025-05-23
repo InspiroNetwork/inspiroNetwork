@@ -1129,7 +1129,6 @@ a:hover {
 }
 
 .cube-vertices .vertex:hover {
-  transform: scale(1.1);
   background-color: var(--gold);
 }
 
