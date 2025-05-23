@@ -2632,7 +2632,7 @@ a:hover {
 
   /* Featured courses responsive styles for very small mobile */
   .metatron-courses-container {
-    min-height: 750px;
+    min-height: 000px;
   }
 
   .metatron-cube-large {
