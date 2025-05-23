@@ -589,7 +589,7 @@ a:hover {
 }
 
 .cube-vertices {
-  display: flex;
+  display: inline-flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 20px;
@@ -2560,14 +2560,14 @@ a:hover {
   /* Stack vertices in a vertical layout */
   .cube-vertices {
     position: absolute;
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
     align-items: center;
     padding-top: 400px;
   }
 
   .vertex-course {
-    position: static;
+    position: absolute;
     width: 260px;
     height: auto;
     border-radius: 10px;
