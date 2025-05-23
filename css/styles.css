@@ -1116,8 +1116,8 @@ a:hover {
 
 .cube-vertices .vertex {
   position: absolute;
-  display: inline-flex;
-  flex-direction: column;
+  display: auto;
+  flex-direction: auto;
   align-items: center;
   justify-content: center;
   width: 80px;
