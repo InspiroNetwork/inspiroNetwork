@@ -2585,13 +2585,13 @@ a:hover {
   }
 
   .vertex-name {
-    font-size: 1rem;
-    text-align: left;
+    font-size: 0.9rem;
+    text-align: center;
     margin-bottom: 0;
   }
 
   .vertex-category {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
 
   /* Hide popups and just link directly */
