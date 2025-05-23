@@ -589,7 +589,7 @@ a:hover {
 }
 
 .cube-vertices {
-  display: auto;
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 20px;
