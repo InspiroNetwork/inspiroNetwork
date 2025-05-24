@@ -2575,7 +2575,7 @@ a:hover {
     margin-bottom: 15px;
     padding: 10px;
     transform: none !important;
-    display: block;
+    display: flex;
   }
 
   .vertex-content {
