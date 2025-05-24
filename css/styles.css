@@ -2558,9 +2558,9 @@ a:hover {
 
   /* Stack vertices in a vertical layout */
   .cube-vertices {
-    position: relative;
+    position: absolute;
     display: flex;
-    flex-direction: colum;
+    flex-direction: column;
     align-items: center;
     padding-top: 400px;
   }
