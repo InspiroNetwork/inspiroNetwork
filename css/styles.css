@@ -2575,11 +2575,11 @@ a:hover {
     margin-bottom: 15px;
     padding: 10px;
     transform: none !important;
-    display: flex;
+    display: block;
   }
 
   .vertex-content {
-    display: flex;
+    display: block;
     justify-content: space-between;
     align-items: center;
   }
