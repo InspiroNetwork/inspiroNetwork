@@ -1306,7 +1306,7 @@ a:hover {
 .practitioner-image {
   height: 360px;
   background: transparent;
-  bject-fit: fill;
+  object-fit: fill;
   display: flex;
   justify-content: center;
 }
