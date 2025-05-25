@@ -2361,7 +2361,7 @@ a:hover {
 }
 
 .accordion-item {
-  background-color: transparent;
+  background-color: white;
   border: none;
   margin-bottom: 10px;
 }
