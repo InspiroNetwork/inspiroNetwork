@@ -1309,6 +1309,7 @@ a:hover {
   object-fit: fill;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .practitioner-content {
