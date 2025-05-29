@@ -171,7 +171,35 @@
             background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1IDMiPg0KPHBhdGggZD0ibTAsMGg1djFIMHoiLz4NCjxwYXRoIGZpbGw9IiNkMDAiIGQ9Im0wLDFoNXYxSDB6Ii8+DQo8cGF0aCBmaWxsPSIjZmZjZTAwIiBkPSJtMCwyaDV2MUgweiIvPg0KPC9zdmc+');
         }
     </style>
-    
+    <style>
+
+    .star {
+      position: absolute;
+      background-color: white;
+      border-radius: 50%;
+      animation: twinkle 5s ease-in-out infinite;
+    }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; }
+    }
+
+    svg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+
+    .constellation line {
+      stroke: white;
+      stroke-opacity: 0.6;
+      stroke-width: 1;
+    }
+  </style>
     
 </head>
 <body class="">
